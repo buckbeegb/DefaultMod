@@ -1,0 +1,53 @@
+{
+  "SicklyMod:DefaultCommonAttack": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage. NL [#0000ff]This[] [#ff0000]Is[] [#ffff00]How[] [#88888]color[] [#ff00ff]works.[]"
+  },
+  "SicklyMod:DefaultCommonSkill": {
+    "NAME": "Collective Weak",
+    "DESCRIPTION": "Apply 1 Weak to EVERYBODY, deal Damage equal to their number of debuffs"
+  },
+  "SicklyMod:DefaultCommonPower": {
+    "NAME": "Hold Place",
+    "DESCRIPTION": "Gain !M! sicklymod:Keyword.",
+    "UPGRADE_DESCRIPTION": "Gain !M! sicklymod:Keywords."
+  },
+  "SicklyMod:DefaultUncommonAttack": {
+    "NAME": "Big slap",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "SicklyMod:DefaultUncommonSkill": {
+    "NAME": "Collective Weak",
+    "DESCRIPTION": "Apply 1 Weak to EVERYBODY, deal Damage equal to their number of debuffs"
+  },
+  "SicklyMod:DefaultUncommonPower": {
+    "NAME": "Weirdness",
+    "DESCRIPTION": "Gain X sicklymod:Keywords.",
+    "UPGRADE_DESCRIPTION": "Gain X +1 sicklymod:Keywords."
+  },
+  "SicklyMod:DefaultRareAttack": {
+    "NAME": "TOUCH",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "SicklyMod:DefaultRareSkill": {
+    "NAME": "For Each Loop x2",
+    "DESCRIPTION": "Apply !M! Vulnerable to all enemies, 2 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to all enemies, 3 times."
+  },
+  "SicklyMod:DefaultRarePower": {
+    "NAME": "In-Progress Form",
+    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  },
+  "SicklyMod:DefaultAttackWithVariable": {
+    "NAME": "Special Strike",
+    "DESCRIPTION": "Deal !D! damage [E] times. NL (Deal !SicklyMod:ENERGY_DAMAGE! damage total.)"
+  },
+  "SicklyMod:DefaultSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! Vulnerable and !SicklyMod:SecondMagic! poison to an enemy."
+  },
+  "SicklyMod:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Default Orb."
+  }
+}
